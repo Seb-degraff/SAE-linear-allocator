@@ -1,0 +1,4 @@
+*.dSYM
+*.ilk
+*.pdb
+*.DS_Store
